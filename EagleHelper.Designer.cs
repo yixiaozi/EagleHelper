@@ -1,6 +1,6 @@
 ﻿namespace EagleHelper
 {
-    partial class Form1
+    partial class EagleHelper
     {
         /// <summary>
         ///  Required designer variable.

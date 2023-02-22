@@ -1,8 +1,8 @@
 namespace EagleHelper
 {
-    public partial class Form1 : Form
+    public partial class EagleHelper : Form
     {
-        public Form1()
+        public EagleHelper()
         {
             InitializeComponent();
         }
